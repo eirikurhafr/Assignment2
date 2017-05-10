@@ -1,0 +1,3 @@
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/cmake-build-debug/CMakeFiles/Assignment_2.dir
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/cmake-build-debug/CMakeFiles/edit_cache.dir

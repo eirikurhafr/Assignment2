@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/Base.cpp
+iostream
+-
+Base.h
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/Base.h
+
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/Base.h
+utility
+-
+string
+-
+map
+-
+vector
+-
+
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/FoxAndHound.cpp
+list
+-
+iostream
+-
+FoxAndHound.h
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/FoxAndHound.h
+
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/FoxAndHound.h
+Base.h
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/Base.h
+
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/main.cpp
+iostream
+-
+FoxAndHound.h
+C:/Users/tumig/Google Drive/Skoli/2017-1/Hlutbundinn forritun i C++/Verkefni/Assignment_2/FoxAndHound.h
+
